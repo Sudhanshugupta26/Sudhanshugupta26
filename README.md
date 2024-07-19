@@ -1,3 +1,4 @@
+![banner](https://github.com/Sudhanshugupta26/Sudhanshugupta26/blob/main/Gif.gif)
 <h1 align="center">Hi 👋, I'm SUDHANSHU GUPTA</h1>
 <h3 align="center">A Computer Science Engineering Student from India</h3>
 
