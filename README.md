@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SUDHANSHU GUPTA</h1>
 <h3 align="center">A Computer Science Engineering Student from India</h3>
 
-<img align="right" alt="Coder" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2bv2wKAky-YTtLASWkLd6ZjKJHP8_GEnFw&s">
+<img align="right" alt="Coder" width="400px" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshugupta26&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshugupta26" /> </p>
 
