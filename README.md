@@ -15,8 +15,6 @@
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Coding Animation" width="100%" />
 </p>
 
----
-
 <h2 align="left">🚀 About Me</h2>
 
 - 🎓 Final-year **Computer Science Engineering** student at **BBDU, Lucknow**  
@@ -26,7 +24,6 @@
 - 🧑‍🤝‍🧑 Open to **collaboration**, **mentoring juniors**, and building cool things with cool people  
 - 💡 Fun fact: *A mosquito can fly, but a fly can’t mosquito 😆*
 
----
 
 <h2 align="left">🌐 Let's Connect!</h2>
 
@@ -38,10 +35,6 @@
   <a href="https://sudhanshugupta26.github.io/Portfolio/" title="Visit my portfolio" style="margin: 0 15px; text-decoration: none;">🌍 Website</a>
 </p>
 
-
-
-
----
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
@@ -78,8 +71,6 @@
 </p>
 
 
----
-
 <h2 align="left">📈 GitHub Stats</h2>
 
 <p align="left">
@@ -90,7 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshugupta26&layout=compact&theme=tokyonight&hide_title=true" width="90%" height="180px"/>
 </p>
 
----
 
 <h2 align="left">🔥 Featured Project</h2>
 <div align="left">
@@ -98,14 +88,12 @@
 <p>Your one-stop destination for previous year question papers, lab files, notes, and more!</p>
 </div>
 
----
 
 <h2 align="left">💬 Quote I Live By</h2>
 
 <p align="left">“Work for Excellence! Success will chase you....”</p>
 
----
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=42F2F7&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Keep+Building+%F0%9F%9B%A0%EF%B8%8F;Connect+and+Let's+Code!" />
 </p>
