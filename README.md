@@ -1,84 +1,110 @@
-<!-- Banner GIF -->
+<!-- 👋 Welcome Banner -->
 <p align="center">
-  <img src="https://github.com/Sudhanshugupta26/Sudhanshugupta26/blob/main/Gif.gif" alt="Banner" width="100%" />
+  <img src="https://github.com/Sudhanshugupta26/Sudhanshugupta26/blob/main/Gif.gif" alt="Welcome Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sudhanshu Gupta</h1>
-<h3 align="center">Computer Science Engineering Student | Passionate Developer | Tech Enthusiast</h3>
+<h1 align="center">Hi, I'm <span style="color:#0dbdff;">Sudhanshu Gupta</span> 👨‍💻</h1>
+<h3 align="center">Passionate CSE Student | Full-Stack Explorer | Data Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudhanshugupta26&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Full Width Coder GIF -->
+<!-- 🔥 Full-width Coding GIF -->
 <p align="center">
-  <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Coder" width="100%" />
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Coding Animation" width="100%" />
 </p>
 
 ---
 
-### 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 🎓 Pursuing **B.Tech in Computer Science** from **BBDU, Lucknow**  
-- 💻 I love building with **React**, **Supabase**, and **Python**  
-- 🔧 Experienced in **MySQL**, **MongoDB**, and **DevOps Tools**
-- 🧠 Exploring **Data Science**, **Cloud**, and **Open Source**
-- ⚡ Fun Fact: *A mosquito can fly, but a fly can’t mosquito 😄*
+- 🎓 Final-year **Computer Science Engineering** student at **BBDU, Lucknow**  
+- 🛠️ I build **real-world web & mobile apps** using **React**, **Supabase**, **MongoDB**, and **Node.js**  
+- 📊 I love working with **Python**, **Pandas**, **Data Visualization**, and **APIs**  
+- 🚢 Comfortable with **Docker**, **Linux**, and basic **Kubernetes**  
+- 🧑‍🤝‍🧑 Open to **collaboration**, **mentoring juniors**, and building cool things with cool people  
+- 💡 Fun fact: *A mosquito can fly, but a fly can’t mosquito 😆*
 
 ---
 
-### 📫 Connect With Me
+<h2 align="center">🌐 Let's Connect!</h2>
 
+<p align="center" style="font-size: 1.2rem;">
+  <a href="mailto:guptasudhanshukumar1@gmail.com" title="Send me an email" style="margin: 0 15px; text-decoration: none;">✉️ Email</a>
+  |
+  <a href="www.linkedin.com/in/sudhanshugupta26" title="Visit my LinkedIn profile" style="margin: 0 15px; text-decoration: none;">💼 LinkedIn</a>
+  |
+  <a href="https://sudhanshugupta26.github.io/Portfolio/" title="Visit my portfolio" style="margin: 0 15px; text-decoration: none;">🌍 Website</a>
+</p>
+
+
+
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+<h4>💻 Languages & Frontend</h4>
 <p>
-  <a href="https://www.linkedin.com/in/sudhanshu-gupta-63ab58251" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  &nbsp;
-  <a href="mailto:guptasudhanshukumar1@gmail.com">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </p>
+
+<h4>🗄️ Backend & Databases</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+<h4>🧠 Data & Analysis</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+</p>
+
+<h4>⚙️ Tools & DevOps</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
+<h2 align="center">📈 GitHub Stats</h2>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<!-- Full Width but Controlled Height -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshugupta26&show_icons=true&theme=radical&hide_rank=true&hide_title=true" alt="GitHub Stats" width="90%" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshugupta26&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" width="90%" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshugupta26&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="90%" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshugupta26&layout=compact&theme=tokyonight&hide_title=true" width="90%" height="180px"/>
 </p>
 
 ---
 
-### 🔗 Check out my [Website](https://sudhanshugupta26.github.io/Portfolio/)
+<h2 align="center">🔥 Featured Project</h2>
+
+🧠 [**BBD College Papers**](https://bbdcollegepapers.in/) –  
+*Your one-stop destination for previous year question papers, lab files, notes, and more!*
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+<h2 align="center">💬 Quote I Live By</h2>
+
+<p align="center">“Work for Excellence! Success will chase you....”</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=42F2F7&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Keep+Building+%F0%9F%9B%A0%EF%B8%8F;Connect+and+Let's+Code!" />
+</p>
