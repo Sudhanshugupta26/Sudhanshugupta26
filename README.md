@@ -27,13 +27,7 @@
 
 <h2 align="left">🌐 Let's Connect!</h2>
 
-<p align="left" style="font-size: 1.2rem;">
-  <a href="mailto:guptasudhanshukumar1@gmail.com" title="Send me an email" style="margin: 0 15px; text-decoration: none;">✉️ Email</a>
-  |
-  <a href="www.linkedin.com/in/sudhanshugupta26" title="Visit my LinkedIn profile" style="margin: 0 15px; text-decoration: none;">💼 LinkedIn</a>
-  |
-  <a href="https://sudhanshugupta26.github.io/Portfolio/" title="Visit my portfolio" style="margin: 0 15px; text-decoration: none;">🌍 Website</a>
-</p>
+<p align="left"> <a href="mailto:guptasudhanshukumar1@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" title="Email" /> </a> <a href="https://www.linkedin.com/in/sudhanshugupta26" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn" /> </a> <a href="https://sudhanshugupta26.github.io/Portfolio/" target="_blank"> <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website" title="Website" /> </a> </p>
 
 
 <h2 align="left">🛠️ Tech Stack</h2>
