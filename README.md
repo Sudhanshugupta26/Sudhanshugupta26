@@ -6,10 +6,6 @@
 <h1 align="center">Hi, I'm <span style="color:#0dbdff;">Sudhanshu Gupta</span> 👨‍💻</h1>
 <h3 align="center">Passionate CSE Student | Full-Stack Explorer | Data Enthusiast | Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudhanshugupta26&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <!-- 🔥 Full-width Coding GIF -->
 <p align="center">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Coding Animation" width="100%" />
