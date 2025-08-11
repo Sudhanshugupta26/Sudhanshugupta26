@@ -61,6 +61,8 @@
 
 <h2 align="left">🔥 Featured Project</h2>
 <div align="left">
+<h4><a href="https://gymmateproject.netlify.app/">💪 Gym Mate </a></h4>
+<p>GymMate is a fitness companion web app that helps users track workouts, monitor progress, and stay motivated with a responsive, dark/light mode UI.</p>
 <h4><a href="https://bbdcollegepapers.in/">🧠 BBD College Papers </a></h4>
 <p>Your one-stop destination for previous year question papers, lab files, notes, and more!</p>
 </div>
