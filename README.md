@@ -25,15 +25,7 @@
 
 <p align="left"> <a href="mailto:guptasudhanshukumar1@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" title="Email" /> </a> <a href="https://www.linkedin.com/in/sudhanshugupta26" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn" /> </a> <a href="https://sudhanshugupta26.github.io/Portfolio/" target="_blank"> <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website" title="Website" /> </a> </p>
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('sudhanshugupta26', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<a href='https://ko-fi.com/F1F01TPAU1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
