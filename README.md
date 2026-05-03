@@ -50,6 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
+<h2>📊 GitHub Stats:</h2>
+
+![](https://github-readme-stats.shion.dev/api?username=Sudhanshugupta26&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=Sudhanshugupta26&theme=neon&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sudhanshugupta26&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="left">🔥 Featured Project</h2>
 <div align="left">
