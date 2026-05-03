@@ -51,17 +51,6 @@
 </p>
 
 
-<h2 align="left">📈 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshugupta26&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" width="90%" height="180px"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshugupta26&layout=compact&theme=tokyonight&hide_title=true" width="90%" height="180px"/>
-</p>
-
-
 <h2 align="left">🔥 Featured Project</h2>
 <div align="left">
 <h4><a href="https://gymmateproject.netlify.app/">💪 Gym Mate </a></h4>
